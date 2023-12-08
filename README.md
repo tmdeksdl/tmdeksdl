@@ -1,8 +1,10 @@
 ### Hi, this is Justin, or Seungjun 👋
 #### Front End Developer
 
-Enjoys exploring both old and new techniques to reach the goal.
+Enjoys exploring both old and new techniques to reach the goal.   
 Open to researching and studying other people's methods and ideas to further improve myself.
+
+* * *
 
 🛠️ Stacks
 
